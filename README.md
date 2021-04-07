@@ -1,3 +1,3 @@
 # Codejam
 
-Solutions for 'Google Codejam' programming competition
+My code of the problems proposed in 'Google Codejam' programming competition
