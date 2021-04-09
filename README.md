@@ -1,6 +1,8 @@
-# Coding Competitions
+# Kickstart
 
-My code of the problems proposed in different programming competition. 
+My solutions for Google Kickstart competition's problems.
+
+
 
 
 
