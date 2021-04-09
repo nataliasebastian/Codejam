@@ -1,4 +1,4 @@
-# KickStart
+# Coding Competitions
 
-My code of the problems proposed in 'Google KickStart' programming competition
+My code of the problems proposed in different programming competition
 
