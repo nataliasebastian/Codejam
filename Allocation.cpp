@@ -2,9 +2,8 @@
 #include <algorithm>
 using namespace std;
 
-int main()
-{
-
+int main() {
+	
     int test; 
     cin >> test; 
 
@@ -38,10 +37,7 @@ int main()
             }
 
     cout << "Case #" << t <<  ": " << result << endl;
-        
-            
-           
+             
     }
-
 }
 
